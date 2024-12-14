@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MlDomain xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Allen intent set</label>
+    <mlIntents>
+        <description>API : AnnualInvoices</description>
+        <developerName>AnnualInvoices</developerName>
+        <label>Gérer mon abonnement</label>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Payer annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Paiement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux payer annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Informations sur le payement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Informations sur le prélèvement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux passer en annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pouvez-vous m&apos;expliquer comment se passe le paiement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaiterais avoir plus d&apos;informations sur le paiement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;aimerais changer mon abonnement et ne plus payer par mensualité</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Passer de prélèvement mensuel en prélèvement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Paiement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire pour ne plus payer mensuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaiterais désormais payer annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais savoir comment fonctionne le payement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment procéder au changement d&apos;abonnement mensuel en abonnement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Abonnement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaiterais ne plus payer mensuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pouvez-vous me donner plus d&apos;informations sur le paiement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire pour payer annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Quelle est la démarche à suivre pour payer annuellement ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;aimerais changer mon abonnement et payer annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais savoir comment fonctionne l&apos;abonnement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire le changement pour payer annuellement ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire le changement pour ne plus payer par mensualité ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire la demande de changement d&apos;un prélèvement mensuel en prélèvement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment fonctionne le payement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite être prélevé annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pouvez-vous fair ela modification afin que je sois prélevé annuellement ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facturation annuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux passer d&apos;un abonnement mensuel à un abonnement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux passer d&apos;un prélèvement mensuel à un prélèvement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;aimerais ne plus être prélevé mensuellement mais effectuer un paiement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Informations sur l&apos;abonnement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Factures annuelles</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment passer à un prélèvement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facture annuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Quelles sont les conditions pour passer à prélèvement annuel ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>j&apos;ai reçu une offre pour régler vos services à l&apos;année et non mensuellement. Je ne retrouve pas cette offre... Pouvez vous me la renvoyer ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>stopper le paiement par mensualité pour passer en annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne sais pas où demander le changement pour l&apos;abonnement annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux passer en facturation annuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Souscrire à la facturation annuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite payer annuellement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite payer à l&apos;année</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite payer par année</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne souhaite plus payer par mois</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne souhaite plus payer par mensualité</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>comment changer l&apos;abonnement pour passer en annuel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment procéder au changement pour l&apos;abonnement à l&apos;année</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Abonnement à l&apos;année</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>je voudrais savoir si la facturation mensuelle sera différente en cas ou je serais interesse et si oui combien</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>NOUVELLE TARIFICATION A L&apos;ANNEE</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>payer en une fois et connaitre la date exacte du prélévèment 2022</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>je ne comprends pas pourquoi mes factures sont passées de 109 à 119?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Passage à la facture annuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>repasser à la facturation mensuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Opter pour la facturation annuelle</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>pourquoi ma facture est passée à 139 euros au lieu de 129?</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <description>API : DownloadInvoice</description>
+        <developerName>DownloadInvoice</developerName>
+        <label>Consulter ou télécharger une facture</label>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où sont mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où télécharger mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où retrouver mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où puis-je retrouver mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où peut-on consulter ses factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment télécharger mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment puis-je télécharger mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment retrouver mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment puis-je retrouver mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Recevoir mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Consulter mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite recevoir mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite retrouver une facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux retrouver une facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux télécharger une facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne reçois pas mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne retrouve pas une facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où est ma facture??</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facture introuvable</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne trouve pas ma facture!!!!</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Imprimer mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite avoir les justificatifs de mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je n&apos;arrive pas à trouver mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Obtenir mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où sont enregistrées mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai besoin de mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne sais pas comment télécharger mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux imprimer mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pourquoi je ne trouve pas mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Puis-je obtenir mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Est-il possible de retrouver ses factures quelque part ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Puis-je retrouver mes facture quelque part ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux accéder à mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Où puis-je accéder à mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a un endroit pour télécharger ses factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a un endroit pour récupérer ses factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment je peux retrouver mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment je peux télécharger mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment accéder à mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>COMMENT TROUVER ME FACTURES 2021?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>accès aux factures de notre contrat</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je cherche ma facture</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <description>API : EditBankingInformation</description>
+        <developerName>EditBankingInformation</developerName>
+        <label>Modifier mon RIB ou adresse de facturation</label>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Modifier mon RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite modifier mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux modifier mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment modifier mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment puis-je modifier mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changer mon RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite changer mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux changer mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment changer mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment puis-je changer mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment changer l&apos;adresse de facturation ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment puis-je mettre à jour mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment mettre à jour mon RIB ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Mettre à jour mon RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changer RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment changer mes coordonnées bancaires?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux modifier mes coordonnées bancaires</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Modifier RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Modifier IBAN</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>IBAN</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Ajouter un IBAN</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a une erreur sur l&apos;adresse de mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changement domiciliation bancaire</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Modifier mon RIB de prélèvement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changer l&apos;adresse sur mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il faudrait modifier mon adresse sur mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je n&apos;ai plus le même rib comment faire ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Mon rib n&apos;est plus bon</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il faudrait modifier mon rib</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Quelle est la procédure à suivre quand on change de rib ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux actualiser mon rib</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux actualiser mon adresse de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite changer mes coordonnées bancaires</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changement RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment avoir la bonne adresse de mon cabinet sur mes factures ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite modifier mon relevé d&apos;identité bancaire</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Est-il possible de modifier l&apos;adresse de facturation ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Est-il possible de modifier mon rib ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Est-il possible de changer mon adresse de facturation ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais changer le RIB de mon compte</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>j&apos;aimerai changer mon RIB</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changement d&apos;adresse facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>modifier l&apos;adresse de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>sur mes factures, je viens de m&apos;apercevoir que mon changement d&apos;adresse n&apos;a pas été réalisé.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>MODIFIER MES COORDONNEES BANQUAIRES</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>je ne trouve pas où modifier mon rib</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite changer mon adresse de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Changer rib et adresse de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il faut que je change mon adresse de facturation et mon rib car ils ne sont plus corrects</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>modifier mes informations de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Problème d&apos;adresse de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais changer mon adresse de facturation</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <description>API : InvoiceIssues</description>
+        <developerName>InvoiceIssues</developerName>
+        <label>Signaler une anomalie de facturation</label>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je constate une anomalie dans ma facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Erreur de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Problème de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un problème de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Prélèvement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Erreur de prélèvement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a une erreur de prélèvement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a un problème de prélèvement dans mon abonnement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Remboursement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite être remboursé</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Contestation de facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je conteste ma facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Ma facture est incorrecte</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facture erronée</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facturation incorrecte</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Facture incorrecte</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite faire une réclamation à propos de ma facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire une réclamation pour ma facture ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un problème avec mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a une erreur dans ma facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Anomalie de facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne comprend pas le montant de ma dernière facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a un problème avec les factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Ma facture est erronée</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux faire une réclamation concernant la facturation</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pouvez-vous m&apos;expliquer le montant de ma facture, je crois qu&apos;il n&apos;est pas correct</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai une très grosse erreur dans ma facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Il y a un problème avec mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un problème de facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Mes factures ne sont pas correctes</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Mes factures ne sont pas bonnes</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Mes factures ne vont pas</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un gros problème avec mes factures</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un gros problème avec ma dernière facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un problème concernant les prélèvements mensuels</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai un problème avec les prélèvements</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment régler le problème avec ma facture ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>changer contrat</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pb de facture</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>problème avec mon prélèvement</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+      <mlIntents>
+        <description>API : TalkToAgent</description>
+        <developerName>TalkToAgent</developerName>
+        <label>Parler à un conseiller</label>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Parler à quelqu&apos;un</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Parler à un humain</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Parler à un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Avoir quelqu&apos;un en ligne</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux parler à quelqu&apos;un</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux parler à un humain</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux parler à un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je veux avoir quelqu&apos;un en ligne</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je ne veux pas parler à un robot</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite avoir un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite avoir un agent</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite avoir une personne en ligne</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite parler à un humain</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite parler à un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Passez-moi quelqu&apos;un</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Agent</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Contacter le standard</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Passez-moi un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Passez-moi un agent</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>oui je veux parler à quelqu&apos;un</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>parler à un agent</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pourrais je être rappelé par quelqu&apos;un ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>pouvez-vous me contacter ou répondre par le chat</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pourrais je être rappelé par quelqu&apos;un ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J’aurais besoin d’un rendez-vous téléphonique pour paramétrer mon agenda car je change de cabinet</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite que vous me contactiez</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Est-ce que vous peut me rappeleiez ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais contacter un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment faire pour parler à quelqu&apos;un ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Prendre rendez-vous avec un agent</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais parler à quelqu&apos;un</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Prendre rendez-vous avec un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment m&apos;entretenir avec un conseiller ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;aimerais m&apos;entretenir avec un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite appeler un agent</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;aimerais être contacté par le service client</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Est-il possible de parler à quelqu&apos;un ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment obtenir quelqu&apos;un au téléphone ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaiterais parler à un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pouvez vous me rappeler ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaiterai etre rappelé par un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Pouvez vous me faire appeler ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;aimerais être recontacté par tel</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Avoir quelqu&apos;un au téléphone</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Rentrer en contact telephonique avec un technicien</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je vous donne mon numéro de téléphone pour pouvoir être rappelé</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Merci de me joindre en urgence</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je voudrais avoir un technitien au téléphone</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Je souhaite parler avec une personne</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Comment vous joindre par téléphone ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Contactez moi</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Vous est-il possible de me recontacter</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>comment vous joindre ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>J&apos;ai besoin de parler avec le service technique</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>JE VEUX UN CORRESPONDANT TELEPHONIQUE</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>AVOIR CORRESPONDANT TELEPHONIQUE</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Appel gestionnaire pro</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>assistance</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>pouvez vous me rappeler</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>avoir un contact pour résoudre mon probleme</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>j&apos;espère être contactée rapidement</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>est il possible de discuter avec un humain ?</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>etre appeler</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>j attends un appel du conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Contacter un conseillé</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>Etre en contact avec un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>je désire être appelé par un conseiller car notre demande est un peu longue à expliquer.</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>contacter un conseiller par telephone</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>contacter un conseiller par telephone</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>pouvez vous me contacter</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>SECRETARIAT TELEPHONIQUE</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>appeler un conseiller</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <language>fr</language>
+            <utterance>POUVONS NOUS PARLER A UN CONSEILLER</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+</MlDomain>
